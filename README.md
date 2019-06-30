@@ -1,4 +1,4 @@
-# cats_vs_dogs_pytorch
+# cats_vs_dogs
 
 # data_science_stepic
 https://github.com/adrianoff/cats_vs_dogs
