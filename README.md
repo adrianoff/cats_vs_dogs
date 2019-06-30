@@ -1,7 +1,7 @@
 # cats_vs_dogs_pytorch
 
 # data_science_stepic
-https://github.com/adrianoff/cats_vs_dogs_pytorch
+https://github.com/adrianoff/cats_vs_dogs
 
 How to create virtual env: 
 
